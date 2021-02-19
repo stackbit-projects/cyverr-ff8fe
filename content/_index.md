@@ -327,7 +327,7 @@ sections:
     background_color: secondary
 seo:
   title: cyverr cyber ventures review
-  description: The preview of the DIY theme
+  description: cyverr is a digital magazine reviewing all things cyber
   extra:
     - name: 'og:type'
       value: website
