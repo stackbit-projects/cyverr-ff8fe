@@ -2,7 +2,7 @@ title: Stackbit DIY Theme
 baseURL: /
 params:
   layout_type: full-width
-  style: minimal
+  style: classic
   palette: gray
   mode: light
   base_font: serif
