@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: cyverr
-    subtitle: 'cyber '
+    subtitle: cyber ventures review
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
