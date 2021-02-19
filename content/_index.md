@@ -327,7 +327,9 @@ sections:
     background_color: secondary
 seo:
   title: cyverr cyber ventures review
-  description: cyverr is a digital magazine reviewing all things cyber
+  description: >-
+    cyverr is a digital magazine reviewing all things cyber. Startups, Venture
+    Capital, Professionals or Conferences
   extra:
     - name: 'og:type'
       value: website
